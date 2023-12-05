@@ -253,26 +253,30 @@ img.direito.gif {
         top: -23rem;
     }
 
-    /*.direito {
-        left: 41rem;
+    .dirResp2 {
+        left: 23rem;
     }
 
-    img.direito.gif {
-        left: 33rem;
-    }
-
-    .character-img-container.resp {
-        top: -30rem;
-    }
-
-    .dirResp {
-        left: 12rem;
-    }
-
-    img.dirResp.gif {
+    img.dirResp2.gif {
         width: 45rem;
-        top: -43rem;
-        left: 6rem;
+        top: -46rem;
+        left: 15rem;
         z-index: -11;
-    }*/
+    }
+
+    .character-img-container.resp.dirRespCont {
+        top: -23rem;
+    }
+
+    .dirResp3 {
+        left: 17rem;
+    }
+
+    img.dirResp3.gif {
+        width: 45rem;
+        top: -46rem;
+        left: 11rem;
+        z-index: -11;
+    }
+
 }
