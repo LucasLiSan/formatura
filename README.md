@@ -3,6 +3,8 @@
 Um site simples pra recordação dos formandos 2023 da EMEB PINGO DE GENTE.
 Esse albúm de fotos no estilo "Character Card Viewer" foi feito pelos alunos do 5º Ano - B.
 
+https://lucaslisan.github.io/formatura/
+
 ## Referência
 
  - [Tekken Character Cards](https://codingtorque.com/tekken-character-cards-using-html-and-css/)
